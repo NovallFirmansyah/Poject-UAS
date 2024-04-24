@@ -5,8 +5,13 @@
     display: flex;
     text-shadow: 0 0 10px rgba(0, 0, 0, .3);
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-between ;
 }
+.navbar img{
+    padding-left: 20px;
+    padding-right: 5px;
+}
+
 .navbar ul li {
     list-style: none;
     display: inline-block;
@@ -34,5 +39,10 @@
 .navbar ul li a.active {
     color: rgb(255, 0, 0);
 }
-body {
+
+body{
+    background-size: cover;
+    background-image: url(Asset/Bali.jpg);
 }
+
+

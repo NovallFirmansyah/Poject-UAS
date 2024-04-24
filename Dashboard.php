@@ -9,12 +9,15 @@
 
     <body>
     <div class="navbar">
-            <img style="width: 150px;" src="Asset/Logo1.png">
+            <img style="width: 150px;" src="Asset/siweb-navigasi-pendidikan-favicon-color.png">
             <ul>
                 <li><a href="Beranda.html" class="active">Beranda</a></li>
-                <li><a href="Biodata.html">Biodata anggota Kelompok</a></li>
-                <li><a href="Homegame.html">Game</a></li>    
+                <li><a href="Biodata.html"></a></li>
+                <li><a href="Homegame.html">Game</a></li>   
             </ul>
+            <img style="width: 50px; margin-right: -150px;" src="Asset/IconSearch.png">
+            <img style="width: 50px;" src="Asset/IcomAccount.png">
         </div>
+        <h1> haloowww</h1>  
     </body>
 </html>

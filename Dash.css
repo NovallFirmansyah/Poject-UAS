@@ -1,7 +1,7 @@
 .navbar {
     width: 85%;
+    /* background-color: blue; */
     margin: auto;
-    padding: 35px 0;
     display: flex;
     text-shadow: 0 0 10px rgba(0, 0, 0, .3);
     align-items: center;
@@ -15,7 +15,7 @@
 }
 .navbar ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #241b1b;
     text-transform: uppercase;
 }
 .navbar ul li::after {
@@ -33,4 +33,6 @@
 }
 .navbar ul li a.active {
     color: rgb(255, 0, 0);
+}
+body {
 }
